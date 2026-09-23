@@ -1,0 +1,20 @@
+{
+	"siteName": "ThePirateHarbor",
+	"registrationEnabled": false,
+	"inviteOnly": true,
+	"webTorrentEnabled": true,
+	"itemsPerPage": 25,
+	"maxTorrentFileBytes": 2097152,
+	"maxMagnetLength": 4096,
+	"maxTitleLength": 180,
+	"maxDescriptionLength": 4000,
+	"maxCommentLength": 1000,
+	"maxReportLength": 1000,
+	"maxTags": 12,
+	"maxUploadsPerHour": 5,
+	"maxUploadsPerDay": 20,
+	"maxUploadsPerUser": 500,
+	"inviteExpiryDays": 7,
+	"sessionExpiryDays": 30,
+	"dmcaEmail": "legal@example.com"
+}
