@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="320" viewBox="0 0 1280 320" role="img" aria-labelledby="title desc">
+	<title id="title">ThePirateHarbor GitHub banner</title>
+	<desc id="desc">A dramatic monochrome ship in three-quarter motion, rigged with sails and cutting through engraved waves.</desc>
+	<g transform="translate(42 26) rotate(-7 260 150)">
+		<path d="M22 176c38 17 82 23 137 22 65-1 124-12 179-34l46-19-25 49c-42 28-105 40-174 39-59-1-111-12-144-31l-27-20z" fill="#151515" stroke="#fff" stroke-width="3" stroke-linejoin="round" />
+		<path d="M31 179c48 16 97 20 150 18 57-2 111-11 168-32l-14 15c-48 27-106 39-174 37-50-1-92-9-122-23z" fill="#6e6e6e" />
+		<path d="M48 172v27M77 180v26M111 185v24M149 185v25M190 180v27M231 171v31M274 159v34M317 144v35" fill="none" stroke="#151515" stroke-width="8" />
+		<path d="M38 170c45 12 100 14 159 9 57-5 105-15 151-31" fill="none" stroke="#fff" stroke-width="3" />
+		<path d="M42 202c44 21 103 29 171 27 58-2 112-12 150-31" fill="none" stroke="#fff" stroke-opacity=".8" stroke-width="3" />
+		<path d="M83 169 111 73l30 94zM135 168 163 27l34 138zM203 160l25-111 34 103zM273 146l19-89 30 80z" fill="#f5f5f2" stroke="#151515" stroke-width="3" stroke-linejoin="round" />
+		<path d="M111 73v96M163 27v138M228 49v106M292 57v83" fill="none" stroke="#151515" stroke-width="5" />
+		<path d="M163 27 91 168M163 27l104 136M228 49l-66 107M228 49l85 93M292 57l-64 86M292 57l67 70" fill="none" stroke="#555" stroke-width="2" />
+		<path d="M163 27 140 4l32 7 14 17zM228 49l-20-20 29 6 11 15z" fill="#151515" />
+		<path d="M62 165c16-8 30-8 44 0l-7 22H70zM146 165c16-8 30-8 45 0l-7 22h-31zM227 155c15-7 27-7 41 0l-6 19h-28z" fill="#151515" />
+		<path d="M27 181 5 200M54 194l-15 27M101 205l-7 29M168 215l4 30M233 204l17 27M295 184l31 14" fill="none" stroke="#151515" stroke-width="4" />
+		<g fill="#151515">
+			<circle cx="82" cy="193" r="4" /><circle cx="106" cy="200" r="4" /><circle cx="159" cy="207" r="4" /><circle cx="195" cy="208" r="4" /><circle cx="247" cy="198" r="4" /><circle cx="278" cy="188" r="4" /><circle cx="311" cy="174" r="4" />
+		</g>
+	</g>
+	<g fill="none" stroke-linecap="round">
+		<path d="M0 257c74-27 121 22 198 0s123-28 201-1 124 25 204 0 124-25 205-1 124 25 204 0 125-25 204-1 124 25 204 0" stroke="#151515" stroke-width="5" />
+		<path d="M0 281c75-24 122 20 199 0s124-25 201 0 125 21 205 0 125-22 205 0 125 22 205 0 125-22 205 0 125 22 205 0" stroke="#777" stroke-width="3" />
+		<path d="M0 301c75-20 122 16 199 0s124-20 201 0 125 17 205 0 125-18 205 0 125 18 205 0 125-18 205 0 125 18 205 0" stroke="#b0b0b0" stroke-width="2" />
+	</g>
+	<text x="610" y="115" fill="#151515" stroke="#fff" stroke-width="7" paint-order="stroke" font-family="Arial, Helvetica, sans-serif" font-size="66" font-weight="700" letter-spacing="-2">THE PIRATE</text>
+	<text x="614" y="188" fill="#151515" stroke="#fff" stroke-width="7" paint-order="stroke" font-family="Arial, Helvetica, sans-serif" font-size="70" font-weight="700" letter-spacing="12">HARBOR</text>
+	<text x="618" y="226" fill="#333" stroke="#fff" stroke-width="3" paint-order="stroke" font-family="Arial, Helvetica, sans-serif" font-size="18" letter-spacing="3">FIND THE SIGNAL. KEEP THE HARBOR.</text>
+	<path d="M620 249h260" fill="none" stroke="#151515" stroke-linecap="round" stroke-width="3" />
+</svg>

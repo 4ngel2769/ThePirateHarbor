@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="160" viewBox="0 0 720 160" role="img" aria-labelledby="title desc">
+	<title id="title">ThePirateHarbor</title>
+	<desc id="desc">A monochrome engraved ship cutting through waves beside the ThePirateHarbor wordmark.</desc>
+	<g transform="translate(18 2) rotate(-7 130 86)">
+		<path d="M18 92c18 8 40 11 68 11 38 1 78-3 112-10l35-9-13 27c-20 16-60 23-104 22-37-1-70-7-91-19l-15-12z" fill="#151515" stroke="#fff" stroke-width="2" stroke-linejoin="round" />
+		<path d="M24 95c26 8 51 10 81 9 35-1 73-5 111-13l-8 8c-34 12-73 17-112 16-33-1-59-6-77-14z" fill="#6f6f6f" />
+		<path d="M37 92v13M55 96v12M76 99v11M100 99v11M125 96v13M151 92v15M177 87v17" fill="none" stroke="#151515" stroke-width="4" />
+		<path d="M29 88c28 6 61 6 95 1 31-4 57-10 80-18" fill="none" stroke="#fff" stroke-width="2" />
+		<path d="M25 107c24 13 61 19 103 18 35-1 69-7 93-19" fill="none" stroke="#fff" stroke-opacity=".8" stroke-width="2" />
+		<path d="M56 94 72 40l14 53zM83 94l15-70 17 68zM121 91l14-60 18 57zM158 87l11-47 15 45z" fill="#f5f5f2" stroke="#151515" stroke-width="2" stroke-linejoin="round" />
+		<path d="M72 40v54M98 24v70M135 31v60M169 40v47" fill="none" stroke="#151515" stroke-width="3" />
+		<path d="M98 24 55 88M98 24l68 62M135 31 95 89M135 31l57 53M169 40l-31 45M169 40l35 38" fill="none" stroke="#4c4c4c" stroke-width="1.4" />
+		<path d="M98 24 83 12l20 3 9 10zM135 31l-13-10 18 3 8 8z" fill="#151515" />
+		<path d="M47 83c9-4 17-4 25 0l-4 12H50zM105 84c9-4 17-4 25 0l-4 11h-18zM151 82c8-3 14-3 21 0l-4 10h-15z" fill="#151515" />
+		<path d="M21 95 9 104M37 99l-7 14M67 105l-4 15M117 111l-1 15M166 106l7 13M204 95l13 5" fill="none" stroke="#151515" stroke-width="2" />
+		<g fill="#151515">
+			<circle cx="63" cy="105" r="2" /><circle cx="79" cy="108" r="2" /><circle cx="113" cy="110" r="2" /><circle cx="137" cy="110" r="2" /><circle cx="171" cy="104" r="2" /><circle cx="190" cy="99" r="2" />
+		</g>
+	</g>
+	<g fill="none" stroke-linecap="round">
+		<path d="M8 132c30-14 50 13 82 0s52-13 82 0 53 13 84 0 50-13 80 0" stroke="#151515" stroke-width="3" />
+		<path d="M0 145c33-13 55 12 88 0s56-12 88 0 53 12 86 0 53-12 86 0" stroke="#777" stroke-width="2" />
+		<path d="M473 126c28-10 46 8 72 0s46-8 72 0" stroke="#777" stroke-width="2" />
+	</g>
+	<text x="298" y="64" fill="#151515" stroke="#fff" stroke-width="5" paint-order="stroke" font-family="Arial, Helvetica, sans-serif" font-size="39" font-weight="700" letter-spacing="-1">THE PIRATE</text>
+	<text x="300" y="111" fill="#151515" stroke="#fff" stroke-width="5" paint-order="stroke" font-family="Arial, Helvetica, sans-serif" font-size="46" font-weight="700" letter-spacing="7">HARBOR</text>
+</svg>
